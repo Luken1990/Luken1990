@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luke Nguyen</h1>
 <h3>A Full Stack Developer</h3>
-<p>Graduate developer who's driven and eager to start his career in software development. With a proven ability to design and develop dynamic web applications whilst adhering to agile principles.</p>
+<p>A talented graduate developer who's driven and eager to start his career in software development. With a proven ability to develop and design dynamic web applications whilst adhering to agile principles. Ability to work both independently and as part of a team.
+</p>
 
 - 📫 How to reach me **l.nguyen_1990@yahoo.com**
 
